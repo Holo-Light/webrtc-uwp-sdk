@@ -78,7 +78,7 @@ url=https://github.com/webrtc-uwp/googlemock.git
 	url = https://github.com/webrtc-uwp/webrtc-apple.git
 [submodule "webrtc/xplatform/webrtc"]
 	path = webrtc/xplatform/webrtc
-	url = https://github.com/webrtc-uwp/webrtc.git
+	url = https://github.com/Holo-Light/webrtc.git
 [submodule "webrtc/xplatform/chromium/base"]
 	path = webrtc/xplatform/chromium/base
 	url = https://github.com/webrtc-uwp/chromium-base.git
@@ -123,4 +123,4 @@ url=https://github.com/webrtc-uwp/googlemock.git
 	url = https://github.com/webrtc-uwp/zsLib-eventing.git
 [submodule "scripts"]
 	path = scripts
-	url = https://github.com/webrtc-uwp/webrtc-scripts.git
+	url = https://github.com/Holo-Light/webrtc-scripts
