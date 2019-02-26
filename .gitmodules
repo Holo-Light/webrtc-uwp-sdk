@@ -124,3 +124,6 @@ url=https://github.com/webrtc-uwp/googlemock.git
 [submodule "scripts"]
 	path = scripts
 	url = https://github.com/Holo-Light/webrtc-scripts
+[submodule "webrtc/xplatform/remoting"]
+	path = webrtc/xplatform/remoting
+	url = https://github.com/Holo-Light/remoting
