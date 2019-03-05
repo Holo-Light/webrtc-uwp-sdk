@@ -60,7 +60,7 @@ url=https://github.com/webrtc-uwp/googlemock.git
 	url = https://github.com/webrtc-uwp/ChatterBox.git
 [submodule "webrtc/windows"]
 	path = webrtc/windows
-	url = https://github.com/webrtc-uwp/webrtc-windows.git
+	url = https://github.com/Holo-Light/webrtc-windows
 [submodule "common/windows/samples/AppRTC"]
 	path = common/windows/samples/AppRTC
 	url = https://github.com/webrtc-uwp/AppRTC.git
@@ -124,3 +124,6 @@ url=https://github.com/webrtc-uwp/googlemock.git
 [submodule "scripts"]
 	path = scripts
 	url = https://github.com/Holo-Light/webrtc-scripts
+[submodule "webrtc/xplatform/remoting"]
+	path = webrtc/xplatform/remoting
+	url = https://github.com/Holo-Light/remoting
