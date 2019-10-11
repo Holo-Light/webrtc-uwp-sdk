@@ -1,3 +1,5 @@
 Output/
-userdef.py
+userdef.py*
+nugetpackages
+
 webrtc/xplatform/remoting
